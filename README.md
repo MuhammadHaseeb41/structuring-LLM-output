@@ -9,5 +9,4 @@ In L3 notebook i used instructor, here i can choose any LLM of our own choice an
 In L4 notebook i used outline, which is logit based and it gave very excellent result for getting desired structured output.
 
 In L5 notebook i used outline,and show how outline provide alot of different type of structured output not only json structure but you can also get any structure like 
-
 extracting email ,csv, phone numer, etc in thier respective desired format.
